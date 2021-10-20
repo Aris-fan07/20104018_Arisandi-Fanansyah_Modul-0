@@ -105,45 +105,10 @@ long i = 10;
   
   3. Jawaban Soal 3
   
-  Diberikan 3 buah bilangan bulat, A, B, dan C, tentukan hasil operasi
-matematika A + B - C !
+  Pada jawaban soal no. 3 ini dapat dilihat pada tabel
+  ```
+  20104018_Arisandi-Fanansyah_Modul-0/Latihan/Sistem_Operasi.java
+  ```
 
-  Input dimulai dengan satu integer T (T <= 10) yang menunjukkan jumlah
-testcase yang akan diberikan. Setiap case akan terdiri dari 3 baris yang
-terdiri dari 3 integer A, B, dan C (-100<= A, B, C <= 100).
-
-  Output untuk setiap case, cetak hasil dari A + B – C! 
-
-  Sample Input
-  
-2      <- Menunjukan Jumlah Testcase
-
-2      <- Nilai A1
-
-3      <- Nilai B1
-
-4      <- Nilai C1
-
--1     <- Nilai A2
-
--3     <- Nilai B2
-
--7     <- Nilai C2
-
-Sample Output
-
-1
-
-3
-
-Penjelasan :
-
-1. Case pertama A1+B1-C1
-
-2 + 3 - 4 = 1
-
-2. Case kedua A2+B2-C2
-
--1 + (-3) – (-7) = 3
-
-Penjelasan 1. 
+# Kesimpulan
+Kesimpulan yang saya dapatkan pada pembelajaran kali ini yaitu saya dapat mengetahui aturan penamaan identifier, mengenal kata-kata kunci yang terdapat pada Java, mengetahui tipe-tipe dasar yang ada pada Java, dan mengetahui penggunaan variable pada Java.
